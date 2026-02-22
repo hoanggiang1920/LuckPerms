@@ -28,7 +28,6 @@ include (
         'bukkit-legacy:loader',
         'bungee',
         'bungee:loader',
-        'fabric',
         'neoforge',
         'neoforge:loader',
         'forge',
